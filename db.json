@@ -3,8 +3,13 @@
     {
       "id": 1,
       "nome": "Maria Luisa",
+      "estado": "Alagoas",
+      "pais": "Brasil",
       "email": "mlss30@aluno.ifal.edu.br",
-      "cpf": "508.282.018-46"
-   }
+      "celular": "58449884",
+      "datanascimento": "30/03/2008",
+      "cpf": "508.282.018-46",
+      "rg": "9458745"
+    }
   ]
 }
